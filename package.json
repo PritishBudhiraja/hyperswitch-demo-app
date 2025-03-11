@@ -1,0 +1,17 @@
+{
+  "name": "hyperswitch-html-demo-app",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A sample Hyperswitch implementation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "hyperswitch-samples",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
